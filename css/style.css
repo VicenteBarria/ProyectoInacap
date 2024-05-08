@@ -65,13 +65,13 @@ img:not(.img-container img) {
       object-fit: cover; /* Con esto se ajusta mejor la imagen */
   }
   
-  /* Con esto cambio de color el fondo de el body */
+  /* Con esto cambio de color el fondo de el body entre otros */
   body {
   font-family: Arial, sans-serif;
   background-color: #303030;
   }
   
-  /* Con esto cambias el borde de las casillas */
+  /* Con esto cambias el borde de las casillas y color */
   .row p {
     background-color: #212121;
     outline-style: inset;
