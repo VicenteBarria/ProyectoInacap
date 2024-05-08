@@ -1,0 +1,29 @@
+[33mcommit 872c26b6ef25da8ef3055451f30073f12ce678f6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Vicente Daniel Barría Duran <adamjon368@gmail.com>
+Date:   Wed May 8 00:22:49 2024 -0400
+
+    Añadido el menu de el inicio, en conjunto de sus respectivos comentarios enfocados en el estilo que tendrá el archivo css
+
+[33mcommit 93321c68476b91ca089bf11c3f94004530667ba3[m
+Author: Vicente Daniel Barría Duran <adamjon368@gmail.com>
+Date:   Wed May 8 00:00:00 2024 -0400
+
+    Agregado el boostrap, y linkeado el css con el index.html para los estilos css
+
+[33mcommit ad149942f58a8608bb1d8dea4337927147cc6b16[m
+Author: Vicente Daniel Barría Duran <adamjon368@gmail.com>
+Date:   Tue May 7 23:51:04 2024 -0400
+
+    Creadas carpetas adicionales como el css y el img, dentro de ellas agregadas los datos adicionales para creacion de la pagina (imagenes,etc.)
+
+[33mcommit 90c60f68e6aa4fa7fec0bfb62c4a92a3cba6c78e[m
+Author: Vicente Daniel Barría Duran <adamjon368@gmail.com>
+Date:   Tue May 7 23:38:00 2024 -0400
+
+    Probando el git commit con datos variados en este caso un h1
+
+[33mcommit 5ceb0c378a188c71ba1e934908b7dc990e60f453[m
+Author: Vicente Daniel Barría Duran <adamjon368@gmail.com>
+Date:   Tue May 7 23:34:54 2024 -0400
+
+    Nombre y index.html creado

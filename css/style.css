@@ -1,0 +1,28 @@
+/* Cambia el color de fondo del nav */
+.navbar {
+    background-color: #222225; /* Cambia el color de fondo del nav a gris */
+}
+/* Cambia el estilo de el menu (Tamaño)*/
+.nav-item a {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: rgb(243, 247, 247);
+}
+.navbar-brand {
+  margin-left: 10px;
+
+}
+/* Cambia el color y los estilos de letra */
+section {
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
+  
+  h2 {
+    color: #007bff;
+  }
+  
+  p {
+    color: #00e1ff;
+  }
+  
