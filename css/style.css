@@ -25,4 +25,59 @@ section {
   p {
     color: #00e1ff;
   }
+/* Cambia el estilo de los container */
+.custom-container {
+    margin-top: 100px;
+    margin-bottom: 125px;
+    margin-left: none;
+    margin-right: none;
+    position: relative;
+    height: 35vh;
+  }
+  .custom-container img {
+    position:absolute;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    top: 0;
+    right: 0;
+  }
+/* Con esto cambio el tamaño de las imagenes */
+
+img:not(.img-container img) {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    outline-style:inset;
+    outline-width: 5px;
+    outline-color: rgb(0, 30, 128);
+    object-fit:contain ;
+  
+  }
+  /* Este es el de el nav */
+  .img-container img {
+      width: 100%; /* Establece el ancho */
+      height: 170px; /* Establece la altura */
+      object-fit: cover; /* Con esto se ajusta mejor la imagen */
+  }
+  
+  /* Con esto cambio de color el fondo de el body */
+  body {
+  font-family: Arial, sans-serif;
+  background-color: #303030;
+  }
+  
+  /* Con esto cambias el borde de las casillas */
+  .row p {
+    background-color: #212121;
+    outline-style: inset;
+    outline-color: #3e00b3;
+    outline-width: 2px;
+  }
+  .row h2 {
+    background-color: #212121;
+    outline-style: inset;
+    outline-color: #3e00b3;
+    outline-width: 2px;
+  
+  }
   
