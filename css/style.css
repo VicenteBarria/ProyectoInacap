@@ -40,6 +40,7 @@ section {
     margin-bottom: 0px;
     top: 0;
     right: 0;
+    
   }
 /* Con esto cambio el tamaño de las imagenes */
 
@@ -81,3 +82,7 @@ img:not(.img-container img) {
   
   }
   
+/* Cambia el color de fondo del final de página */
+footer {
+  background-color: #222225; /* Cambia el color de fondo del pie de página a gris*/
+}
