@@ -58,12 +58,30 @@ img:not(.img-container img) {
     object-fit:contain ;
   
   }
-  /* Este es el de el nav */
+  /* Este es el fondo de abajo de el nav */
   .img-container img {
       width: 100%; /* Establece el ancho */
       height: 170px; /* Establece la altura */
       object-fit: cover; /* Con esto se ajusta mejor la imagen */
   }
+  .img-container {
+    position: relative;
+}
+
+.register {
+    
+    position: absolute;
+    top: 50%; /* Ajusta según la posición vertical deseada */
+    left: 50%; /* Ajusta según la posición horizontal deseada */
+    transform: translate(-50%, -50%); /* Centra el enlace en relación con el contenedor */
+    background-color: none ; /* Ajusta el color de fondo del enlace */
+    outline-style: inset;
+    outline-color: rgb(0, 30, 128);
+    outline-width: 2px;
+    text-decoration: none; /* Quita el subrayado */
+    color: rgb(255, 255, 255); /* Ajusta el color del texto del enlace */
+}
+
   
   /* Con esto cambio de color el fondo de el body entre otros */
   body {
